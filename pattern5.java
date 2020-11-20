@@ -3,7 +3,7 @@
 //	*	*	*	*	*
 //		*	*	*
 //			*
-//Dimond Pattern for input-3.
+//Dimond Pattern for Input-3.
 import java.util.Scanner;
 
 public class Pattern5 {
